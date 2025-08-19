@@ -1,0 +1,1 @@
+{"rustc":11410426090777951712,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[11395979602760657318,"build_script_build",false,13634657745804674263]],"local":[{"RerunIfChanged":{"output":"release/build/num-rational-db50a8f298270082/output","paths":["build.rs"]}}],"rustflags":[],"config":0,"compile_kind":0}

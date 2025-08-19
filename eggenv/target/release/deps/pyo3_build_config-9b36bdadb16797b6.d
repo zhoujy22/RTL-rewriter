@@ -1,0 +1,13 @@
+/home/jingyi/workspace/E-Syn/eggenv/target/release/deps/pyo3_build_config-9b36bdadb16797b6.d: /home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/lib.rs /home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/errors.rs /home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/impl_.rs /home/jingyi/workspace/E-Syn/eggenv/target/release/build/pyo3-build-config-b9f904722bb1e026/out/pyo3-build-config-file.txt /home/jingyi/workspace/E-Syn/eggenv/target/release/build/pyo3-build-config-b9f904722bb1e026/out/pyo3-build-config.txt
+
+/home/jingyi/workspace/E-Syn/eggenv/target/release/deps/libpyo3_build_config-9b36bdadb16797b6.rlib: /home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/lib.rs /home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/errors.rs /home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/impl_.rs /home/jingyi/workspace/E-Syn/eggenv/target/release/build/pyo3-build-config-b9f904722bb1e026/out/pyo3-build-config-file.txt /home/jingyi/workspace/E-Syn/eggenv/target/release/build/pyo3-build-config-b9f904722bb1e026/out/pyo3-build-config.txt
+
+/home/jingyi/workspace/E-Syn/eggenv/target/release/deps/libpyo3_build_config-9b36bdadb16797b6.rmeta: /home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/lib.rs /home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/errors.rs /home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/impl_.rs /home/jingyi/workspace/E-Syn/eggenv/target/release/build/pyo3-build-config-b9f904722bb1e026/out/pyo3-build-config-file.txt /home/jingyi/workspace/E-Syn/eggenv/target/release/build/pyo3-build-config-b9f904722bb1e026/out/pyo3-build-config.txt
+
+/home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/lib.rs:
+/home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/errors.rs:
+/home/jingyi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.19.2/src/impl_.rs:
+/home/jingyi/workspace/E-Syn/eggenv/target/release/build/pyo3-build-config-b9f904722bb1e026/out/pyo3-build-config-file.txt:
+/home/jingyi/workspace/E-Syn/eggenv/target/release/build/pyo3-build-config-b9f904722bb1e026/out/pyo3-build-config.txt:
+
+# env-dep:OUT_DIR=/home/jingyi/workspace/E-Syn/eggenv/target/release/build/pyo3-build-config-b9f904722bb1e026/out
