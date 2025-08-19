@@ -1,6 +1,5 @@
 # RTL-rewriter
-# Instructions
-
+## Instructions for eggenv
 - Use [egg](https://github.com/egraphs-good/egg) to build an e-graph and apply equality rewriting rules (rules can be added or modified).
 - Use `AstDepth` as the cost function (later can be replaced with XGBoost).
 - Provide the following environment interfaces:
