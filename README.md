@@ -1,4 +1,6 @@
 # RTL-rewriter
+- This is a RL-based egg rewriter agent for RTL
+  
 ## Instructions for eggenv
 - Use [egg](https://github.com/egraphs-good/egg) to build an e-graph and apply equality rewriting rules (rules can be added or modified).
 - Use `AstDepth` as the cost function (later can be replaced with XGBoost).
