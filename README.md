@@ -11,3 +11,5 @@
 - Installation:  
   ```bash
   pip install e_rewriter-0.1.0-cp38-cp38-linux_x86_64.whl
+## Simply test the basic function
+- You only need to run `python test_run.py ;
